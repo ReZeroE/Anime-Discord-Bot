@@ -1,0 +1,14 @@
+{
+    "admin" : {
+            "purge": ["purge"]
+    },
+    "moderator": {
+            "terminate": ["bye cc", "bye c.c.","terminate program", "self destruct"]
+        },
+    "user": {
+            "help": ["help", "get help"],
+            "get-anime": ["get anime", "get ani", "get-anime", "get_anime", "getanime", "anime"],
+            "get-perm": ["get perm", "perm", "my perm"],
+            "get-status": ["get status", "report", "status"]
+        }
+}

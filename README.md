@@ -53,7 +53,7 @@ Primary help command. Displays all bot commands.
 ![](https://imgur.com/1Ir228r.png)
 
 ### Get Bot Status
-Retreive the bot's status with bot's internet latency.
+Retreive the bot's status including the bot's internet latency.
  - Command: `>status`
 
 ![](https://imgur.com/btmDHyJ.png)

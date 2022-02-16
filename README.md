@@ -30,7 +30,7 @@ This is a very simple bot dedicated to anime lookup within discord. As of right 
  - [Get Bot Status](https://github.com/ReZeroE/Anime-Discord-Bot#get-bot-status)
 
 ## Anime Search
-Searches up the anime with the given name using AniList.co APIv2 and display the anime info in the format of a customizable Discord embed.
+Looks up the anime with the given name using AniList.co APIv2 and display the anime info in the format of a customizable Discord embed.
 - Command: `>get anime <anime_name>`
 
 ### Input:

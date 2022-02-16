@@ -1,6 +1,6 @@
 # Anime-Discord-Bot
 
-<img src="https://i.imgur.com/ZyqkkM0.png" align="left" width="300"/>
+<img src="https://i.imgur.com/ZyqkkM0.png" align="left" width="320"/>
 <ul>
   Anime retrieving Discord bot supported by the
   <a href="https://github.com/ReZeroE/AnilistPython">AnilistPython Library (anilist.co APIv2 wapper)</a>

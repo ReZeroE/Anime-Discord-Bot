@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/ZyqkkM0.png" align="left" width="300"/>
 <ul>
   Anime retrieving Discord bot supported by the
-  <a href="https://github.com/ReZeroE/AnilistPython">AnilistPython Library (anilist.co APIv2 Wapper)</a>
+  <a href="https://github.com/ReZeroE/AnilistPython">AnilistPython Library (anilist.co APIv2 wapper)</a>
   .
   <br><br />
   
@@ -25,9 +25,9 @@ Prefix | `>`
 ![licence](https://img.shields.io/github/license/ReZeroE/AnilistPython)
 
 This is a very simple bot dedicated to anime searching within the discord server. As of right now, there are only one primary function and two helper functions.
- - Anime Search
- - Get Help
- - Get Bot Status
+ - [Anime Search](https://github.com/ReZeroE/Anime-Discord-Bot#anime-search)
+ - [Get Help](https://github.com/ReZeroE/Anime-Discord-Bot#get-help)
+ - [Get Bot Status](https://github.com/ReZeroE/Anime-Discord-Bot#get-bot-status)
 
 ## Anime Search
 Searches up the anime with the given name using AniList.co APIv2 and display the anime info in the format of a customizable Discord embed.

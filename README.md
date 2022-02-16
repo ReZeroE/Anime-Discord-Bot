@@ -24,7 +24,10 @@ Prefix | `>`
 ![downloads](https://img.shields.io/github/workflow/status/ReZeroE/AnilistPython/GitHub%20Actions%20Demo)
 ![licence](https://img.shields.io/github/license/ReZeroE/AnilistPython)
 
-This is a very simple bot dedicated to anime searching within the discord server. As of right now, there is only one primary function.
+This is a very simple bot dedicated to anime searching within the discord server. As of right now, there is only one primary function and two helper functions.
+ - Anime Search
+ - Get Help
+ - Get Bot Status
 
 ## Anime Search
 Searches up the anime with the given name using AniList.co APIv2 and display the anime info in the format of a customizable Discord embed.

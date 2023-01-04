@@ -21,7 +21,6 @@ Prefix | `>`
 
 # Usage
 ![example workflow](https://github.com/ReZeroE/AnilistPython/actions/workflows/github-actions-demo.yml/badge.svg)
-![downloads](https://img.shields.io/github/workflow/status/ReZeroE/AnilistPython/GitHub%20Actions%20Demo)
 ![licence](https://img.shields.io/github/license/ReZeroE/AnilistPython)
 
 This is a very simple bot dedicated to anime lookup within discord. As of right now, there are only one primary function and two helper functions.
